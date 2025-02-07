@@ -12,9 +12,9 @@ export default function Cancellation() {
             <h2 className="text-2xl font-semibold mb-4 text-primary">Refund Eligibility</h2>
             <div className="space-y-2">
               {[
-                "Donations above $55 are eligible for refunds",
+                "Donations above ₹55 are eligible for refunds",
                 "Refund requests must be made within 30 days of donation",
-                "Donations below $55 are non-refundable",
+                "Donations below ₹55 are non-refundable",
                 "Processing fees are non-refundable"
               ].map((item, index) => (
                 <div key={index} className="flex items-center space-x-2">

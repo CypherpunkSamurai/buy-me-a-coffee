@@ -22,7 +22,7 @@ export default function Terms() {
             <h2 className="text-2xl font-semibold mb-4 text-primary">Limitation of Liability</h2>
             <div className="space-y-2">
               {[
-                "All donations are voluntary and non-refundable for amounts less than $55",
+                "All donations are voluntary and non-refundable for amounts less than ₹55",
                 "We are not liable for any direct, indirect, incidental, or consequential damages",
                 "All payments are processed through Razorpay and subject to their terms and conditions"
               ].map((item, index) => (

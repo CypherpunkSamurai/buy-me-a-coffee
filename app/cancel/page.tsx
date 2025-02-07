@@ -84,7 +84,6 @@ export default function CancellationRefund() {
             <div className="space-y-2">
               {[
                 "Email: support@buymecoffee.rakeshs.life",
-                "Phone: +91 98765 43210",
                 "Address: 123 Tech Park, Sector 5, Salt Lake City, Kolkata - 700091, West Bengal, India"
               ].map((item, index) => (
                 <div key={index} className="flex items-center space-x-2">

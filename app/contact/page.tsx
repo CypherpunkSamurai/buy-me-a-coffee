@@ -23,7 +23,7 @@ export default function Contact() {
             <h3 className="font-semibold mb-4">About Donations</h3>
             <p className="text-muted-foreground">
               This is a coffee fund me website that allows well-wishers to support my work through donations. 
-              All payments are processed securely through Razorpay. Donations above $55 are eligible for refunds 
+              All payments are processed securely through Razorpay. Donations above ₹55 are eligible for refunds 
               within 30 days, while smaller amounts are non-refundable.
             </p>
           </div>
